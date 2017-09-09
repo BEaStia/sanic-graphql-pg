@@ -1,0 +1,7 @@
+sanic_graphql==1.1.0
+sanic==0.6.0
+Cython
+sqlalchemy
+graphene>=2.0.dev
+graphene_sqlalchemy>=2.0dev
+psycopg2
